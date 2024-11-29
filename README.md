@@ -8,8 +8,8 @@
   
   A seguir é definido o que cada participante fez dentro do programa:
 
-## 🕷️[Nicolas](https://github.com/niicfsz) : [Login & Menu](https://github.com/niicfsz/PFD-AP2/blob/main/loginemenu)
-## [Lucas](https://github.com/LucasFreitas1307) : [Gerenciamento de dados/Estabelecimento de tarefas diárias](https://github.com/niicfsz/PFD-AP2/blob/main/dadosetarefas)
-## [Luiz](https://github.com/Schneiderss) : [Funções de cálculo](https://github.com/niicfsz/PFD-AP2/blob/main/calculoemedia)
-## [Paulo](https://github.com/Paulo-if) : [DevOps](https://github.com/niicfsz/PFD-AP2/blob/main/devops)
-## [João Vitor]() : [Fluxograma e slides explicativos](https://github.com/niicfsz/PFD-AP2/blob/main/fluxoslides)
+### 🕷️[Nicolas](https://github.com/niicfsz) : [Login & Menu](https://github.com/niicfsz/PFD-AP2/blob/main/loginemenu)
+### [Lucas](https://github.com/LucasFreitas1307) : [Gerenciamento de dados/Estabelecimento de tarefas diárias](https://github.com/niicfsz/PFD-AP2/blob/main/dadosetarefas)
+### [Luiz](https://github.com/Schneiderss) : [Funções de cálculo](https://github.com/niicfsz/PFD-AP2/blob/main/calculoemedia)
+### [Paulo](https://github.com/Paulo-if) : [DevOps](https://github.com/niicfsz/PFD-AP2/blob/main/devops)
+### [João Vitor]() : [Fluxograma e slides explicativos](https://github.com/niicfsz/PFD-AP2/blob/main/fluxoslides)
