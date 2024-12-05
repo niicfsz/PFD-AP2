@@ -1,5 +1,5 @@
 # Dados de lotes e criação de tarefas
-Bibliotecas desenvolvidas pelo [Lucas](https://github.com/LucasFreitas1307) com o intuito de gerenciar os lotes, e criar e administrar tarefas pelo FILE.
+Bibliotecas desenvolvidas pelo [Lucas](https://github.com/LucasFreitas1307) e o [Luís Felipe](https://github.com/Schneiderss) com o intuito de gerenciar os lotes, e criar e administrar tarefas pelo FILE.
 
 ## Cadastro de lotes
 ```C
