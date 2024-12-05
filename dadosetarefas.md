@@ -170,7 +170,7 @@ void registrarDadosUsuario1()
 
 #endif // CADASTRORACAO_H_INCLUDED
 ```
-## Criação, listagem
+## Criação e listagem de tarefas
 ### Criação
 ```C
 #ifndef CRIARTAREFAS_H_INCLUDED
