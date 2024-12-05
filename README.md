@@ -12,3 +12,7 @@
 ### 🤙[Luis](https://github.com/Schneiderss) : [Funções de cálculo](https://github.com/niicfsz/PFD-AP2/blob/main/calculoemedia.md)
 ### ❤️[Paulo](https://github.com/Paulo-if) : [Estruturação do código](https://github.com/niicfsz/PFD-AP2/blob/main/estruturacao.md)
 ### 🦣[João Vitor](https://github.com/CAMPOZs) : [Fluxograma e slides explicativos](https://github.com/niicfsz/PFD-AP2/tree/main/fluxoeslides)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b79d1e44-ab91-47fc-af42-f2dda13499cf">
+</div>
