@@ -8,7 +8,7 @@
   A seguir é definido o que cada participante fez dentro do programa:
 
 ### 🕷️[Nicolas](https://github.com/niicfsz) : [Login & Menu](https://github.com/niicfsz/PFD-AP2/blob/main/loginemenu.md)
-### 🥷[Lucas](https://github.com/LucasFreitas1307) : [Gerenciamento de dados/Estabelecimento de tarefas diárias](https://github.com/niicfsz/PFD-AP2/blob/main/dadosetarefas)
+### 🥷[Lucas](https://github.com/LucasFreitas1307) : [Gerenciamento de dados/Estabelecimento de tarefas diárias](https://github.com/niicfsz/PFD-AP2/blob/main/dadosetarefas.md)
 ### 🤙[Luis](https://github.com/Schneiderss) : [Funções de cálculo](https://github.com/niicfsz/PFD-AP2/blob/main/calculoemedia)
 ### ❤️[Paulo](https://github.com/Paulo-if) : [Estruturação do código](https://github.com/niicfsz/PFD-AP2/blob/main/devops)
 ### 🦣[João Vitor](https://github.com/CAMPOZs) : [Fluxograma e slides explicativos](https://github.com/niicfsz/PFD-AP2/tree/main/fluxoeslides)
