@@ -260,3 +260,6 @@ int main()
 Para maior aprofundamento sobre cada opção dos menus, verifique os outros arquivos.
 
 To learn more about each option of the menu, please take a look on the other archives.
+
+![image](https://github.com/user-attachments/assets/ade56405-a624-4de4-b369-1c30e853cc1b)
+
