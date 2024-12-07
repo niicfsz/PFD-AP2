@@ -44,3 +44,6 @@ int testePesoIdeal(float peso, float gastoPorKgBoi, float precoVendaKgBoi) {
 
 #endif // FUNCOESAP2_H_INCLUDED
 ```
+
+![image](https://github.com/user-attachments/assets/46e0115d-209b-46ab-8164-2711e4a85c6a)
+
