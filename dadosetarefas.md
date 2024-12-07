@@ -230,3 +230,6 @@ void listarTarefas()
 #endif // LISTARTAREFAS_H_INCLUDED
 ```
 
+![image](https://github.com/user-attachments/assets/f48adaf9-e1cf-438d-afbb-83d60f30739f)
+
+
